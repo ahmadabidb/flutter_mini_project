@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_diet_planner/models/db_manager.dart';
 import 'package:flutter_diet_planner/views/provider/progress_provider.dart';
-import 'package:flutter_diet_planner/views/screens/onboard.dart';
 import 'package:flutter_diet_planner/views/screens/onboard.dart';
 import 'package:provider/provider.dart';
 
